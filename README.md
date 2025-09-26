@@ -1,2 +1,2 @@
-# 25MCS123-ML-IMPLEMENTATION
+ML Implementation
 It Contains Coding Implementations of Topics Covered In (CS-632) Mathematics For Machine Learning.
